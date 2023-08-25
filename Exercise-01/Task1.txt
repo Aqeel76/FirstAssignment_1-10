@@ -1,0 +1,11 @@
+Assalamo-Alikum!
+
+Sir, as per your instructions in the class, I have successfully installed Node.js, TypeScript and VS Code in my Laptop.
+
+Further extensions in VS Code also installed, please.
+
+Regards
+
+Aqeel Ahmad
+Batch 47
+Roll # PIAIC211315
